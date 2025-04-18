@@ -4,7 +4,7 @@ import useEmblaCarousel from "embla-carousel-react";
 
 const images = [
   "/images/home/carousel/img1.JPG",
-  "/images/home/carousel/img2.JPG",
+  "/images/home/carousel/img2.png",
   "/images/home/carousel/img3.JPG",
   "/images/home/carousel/img4.jpg",
   "/images/home/carousel/img5.png",
