@@ -3,7 +3,6 @@
 import React, { useState, useEffect } from "react";
 import SpeakerList from "../../components/SpeakerList";
 import SpeakerCard from "../../components/SpeakerCard";
-// import SpeakerPile from "../../components/SpeakerPile";
 import MobileSpeakerList from "../../components/MobileSpeakerList";
 import speakers from "../../../public/speakers.json";
 import Navbar from "../../components/Navbar";
@@ -13,50 +12,29 @@ const Speakers = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [bgIndex, setBgIndex] = useState(0);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isHovered, setIsHovered] = useState(false); // NEW
+
   const heights = [
-    "h-[100px]",
-    "h-[80px]",
-    "h-[60px]",
-    "h-[90px]",
-    "h-[70px]",
-    "h-[80px]",
-    "h-[60px]",
-    "h-[90px]",
-    "h-[60px]",
-    "h-[80px]",
-    "h-[60px]",
-    "h-[70px]",
-    "h-[100px]",
-    "h-[60px]",
-    "h-[90px]",
-    "h-[70px]",
+    "h-[100px]", "h-[80px]", "h-[60px]", "h-[90px]",
+    "h-[70px]", "h-[80px]", "h-[60px]", "h-[90px]",
+    "h-[60px]", "h-[80px]", "h-[60px]", "h-[70px]",
+    "h-[100px]", "h-[60px]", "h-[90px]", "h-[70px]",
   ];
   const colors = [
-    "bg-[#1D4F7C]",
-    "bg-[#DBDCDE]",
-    "bg-[#DF231D]",
-    "bg-[#5373A6]",
-    "bg-[#E1E5E8]",
-    "bg-[#DF231D]",
-    "bg-[#E1E5E8]",
-    "bg-[#5373A6]",
-    "bg-[#ACC8E2]",
-    "bg-[#E1E5E8]",
-    "bg-[#DF231D]",
-    "bg-[#E1E5E8]",
-    "bg-[#1D4F7C]",
-    "bg-[#D9D9D9]",
-    "bg-[#DF231D]",
-    "bg-[#1D4F7C]",
+    "bg-[#1D4F7C]", "bg-[#DBDCDE]", "bg-[#DF231D]", "bg-[#5373A6]",
+    "bg-[#E1E5E8]", "bg-[#DF231D]", "bg-[#E1E5E8]", "bg-[#5373A6]",
+    "bg-[#ACC8E2]", "bg-[#E1E5E8]", "bg-[#DF231D]", "bg-[#E1E5E8]",
+    "bg-[#1D4F7C]", "bg-[#D9D9D9]", "bg-[#DF231D]", "bg-[#1D4F7C]",
   ];
 
   useEffect(() => {
+    if (isHovered) return; // Pause autoplay when hovered
     const interval = setInterval(() => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % speakers.length);
       setBgIndex((prevBgIndex) => (prevBgIndex + 1) % 6);
     }, 10000);
     return () => clearInterval(interval);
-  }, []);
+  }, [isHovered]);
 
   const handleSpeakerClick = (index) => {
     setCurrentIndex(index);
@@ -93,17 +71,16 @@ const Speakers = () => {
           ))}
         </div>
       </div>
+
       <div className="flex-grow flex flex-col laptop:flex-row items-start justify-center gap-2 laptop:overflow-hidden my-[40px]">
-        <div className="flex flex-col items-center justify-start w-full h-full laptop:mt-10">
+        <div
+          className="flex flex-col items-center justify-start w-full h-full laptop:mt-10"
+          onMouseEnter={() => setIsHovered(true)}
+          onMouseLeave={() => setIsHovered(false)}
+        >
           <SpeakerCard speaker={speakers[currentIndex]} bgIndex={bgIndex} />
-          {/* <div className="hidden laptop:flex items-start w-full h-full">
-            <SpeakerPile
-              speakers={speakers}
-              currentIndex={currentIndex}
-              bgIndex={bgIndex}
-            />
-          </div> */}
         </div>
+
         <div className="hidden laptop:block w-1/3 h-full">
           <SpeakerList
             speakers={speakers}
@@ -111,6 +88,7 @@ const Speakers = () => {
             setCurrentIndex={handleSpeakerClick}
           />
         </div>
+
         <div className="laptop:hidden">
           <button
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}

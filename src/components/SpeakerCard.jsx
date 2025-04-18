@@ -62,19 +62,22 @@ const SpeakerCard = ({ speaker, bgIndex }) => {
         </div>
 
         <div className="flex justify-end items-end w-full scale-[0.8]">
-          <button
-            className={`border-2 ${borderColors[bgIndex]} ${textColors[bgIndex]} px-2 py-1 cursor-pointer rounded-full flex items-center gap-1 transition duration-300
-            hover:bg-white hover:text-black hover:border-black`}
-            onClick={handleReadMore}
-          >
-            Read More
-            <span
-              className={`border-2 ${borderColors[bgIndex]} rounded-full px-2 text-lg transition duration-300
-              hover:bg-white hover:text-black hover:border-black`}
-            >
-              {">"}
-            </span>
-          </button>
+        <button
+  onClick={handleReadMore}
+  className="group mt-4 px-6 py-2 bg-white/10 backdrop-blur-md border border-white text-white rounded-full hover:scale-105 transition-all duration-300 shadow-lg flex items-center gap-1"
+>
+  Read More
+  <span className="inline-block transform transition-transform duration-300 group-hover:translate-x-1"><svg
+  className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300"
+  fill="none"
+  stroke="currentColor"
+  strokeWidth="2"
+  viewBox="0 0 24 24"
+>
+  <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+</svg></span>
+</button>
+
         </div>
       </div>
     </div>
