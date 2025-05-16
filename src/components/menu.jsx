@@ -9,8 +9,8 @@ const menuItems = [
   { name: "Logistics and Hospitality", path: "/team/logistics-hospitality" },
   { name: "Web Development", path: "/team/web-development" },
   { name: "Multimedia", path: "/team/multimedia" },
+  { name: "Faculty", path: "/team/faculty" },
 ];
-
 
 const Menu = () => {
   const pathname = usePathname();
@@ -19,7 +19,7 @@ const Menu = () => {
   return (
     <div
       className="hidden md:flex flex-col items-center absolute top-[140px] left-[60px] 
-      w-[280px] h-[420px] bg-[#AB1D1E] rounded-[40px] py-6 space-y-4"
+      w-[280px] h-[480px] bg-[#AB1D1E] rounded-[40px] py-6 space-y-4"
     >
       {menuItems.map(({ name, path }, index) => {
         const isActive = pathname === path;
@@ -29,7 +29,11 @@ const Menu = () => {
             key={index}
             onClick={() => router.push(path)}
             className={`w-[220px] py-2.5 text-lg font-semibold rounded-full transition-all duration-300 
-              ${isActive ? "bg-[#E63946] text-white" : "bg-gray-300 text-red-700 hover:bg-gray-400"}
+              ${
+                isActive
+                  ? "bg-[#E63946] text-white"
+                  : "bg-gray-300 text-red-700 hover:bg-gray-400"
+              }
             `}
           >
             {name}
