@@ -152,6 +152,28 @@ const TeamPage = () => {
     <div className="flex flex-col gap-10 items-center">
       <Navbar />
       <Teambutton text="Team 2024-2025" backgroundColor="bg-[#0c223f]" />
+      {/* <Teambutton text="Faculties" backgroundColor="bg-[#0c223f]" /> */}
+      <div className="md:w-2/3 flex justify-center items-start mb-5 mt-3 gap-4">
+        <Head
+          imageSrc="/images/Faculty_Prakhar Gupta.webp"
+          title="FIC Student Activities"
+          name="Prof. Prakhar Gupta"
+          rollNo="Assistant Professor"
+          bgColor="bg-[#B0C4DE]"
+          textColor="text-[#1E456E]"
+        />
+        <Head
+          imageSrc="/images/Faculty_R Prasanth Kumar.webp"
+          title="Dean students"
+          name="Prof. Prasanth Kumar R"
+          rollNo="Professor"
+          bgColor="bg-[#B0C4DE]"
+          textColor="text-[#1E456E]"
+        />
+      </div>
+
+      <Teambutton text="Team Lead" backgroundColor="bg-[#0c223f]" />
+
       <Overall />
 
       <Teambutton text="Design and PR" backgroundColor="bg-[#0c223f]" />
@@ -225,26 +247,6 @@ const TeamPage = () => {
           title="Multimedia Coordinator"
           name="Rajnil Malviya"
           rollNo="ee23btech11051"
-          bgColor="bg-[#B0C4DE]"
-          textColor="text-[#1E456E]"
-        />
-      </div>
-
-      <Teambutton text="Faculty" backgroundColor="bg-[#0c223f]" />
-      <div className="md:w-2/3 flex justify-center items-start mb-5 mt-3 gap-4">
-        <Head
-          imageSrc="/images/Faculty_Prakhar Gupta.webp"
-          title="FIC Student Activities"
-          name="Prof. Prakhar Gupta"
-          rollNo="Assistant Professor"
-          bgColor="bg-[#B0C4DE]"
-          textColor="text-[#1E456E]"
-        />
-        <Head
-          imageSrc="/images/Faculty_R Prasanth Kumar.webp"
-          title="Dean students"
-          name="Prof. Prasanth Kumar R"
-          rollNo="Professor"
           bgColor="bg-[#B0C4DE]"
           textColor="text-[#1E456E]"
         />
