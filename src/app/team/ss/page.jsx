@@ -156,7 +156,7 @@ const TeamPage = () => {
       <div className="sm:w-1/4 md:w-2/3 flex flex-col justify-center items-center mb-5 mt-3 gap-10">
         <Head
           imageSrc="/images/Faculty_R Prasanth Kumar.webp"
-          title="Dean students"
+          title="Dean Students"
           name="Prof. Prasanth Kumar R"
           rollNo="Professor"
           bgColor="bg-[#B0C4DE]"
