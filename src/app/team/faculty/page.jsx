@@ -47,7 +47,7 @@ export default function Faculty() {
                 />
                 <Head
                   imageSrc="/images/Faculty_R Prasanth Kumar.webp"
-                  title="Dean students"
+                  title="Dean Students"
                   name="Prof. Prasanth Kumar R"
                   rollNo="Professor"
                   bgColor="bg-[#B0C4DE]"
