@@ -3,13 +3,13 @@
 import { usePathname, useRouter } from "next/navigation";
 
 const menuItems = [
-  { name: "Faculties", path: "/team/faculty" },
-  { name: "Overall Head", path: "/team" },
-  { name: "Design and PR", path: "/team/design-pr" },
-  { name: "Speaker Curator", path: "/team/speaker-curator" },
-  { name: "Logistics and Hospitality", path: "/team/logistics-hospitality" },
-  { name: "Web Development", path: "/team/web-development" },
-  { name: "Multimedia", path: "/team/multimedia" },
+  { name: "Faculties", path: "/team24-25/faculty" },
+  { name: "Overall Head", path: "/team24-25" },
+  { name: "Design and PR", path: "/team24-25/design-pr" },
+  { name: "Speaker Curator", path: "/team24-25/speaker-curator" },
+  { name: "Logistics and Hospitality", path: "/team24-25/logistics-hospitality" },
+  { name: "Web Development", path: "/team24-25/web-development" },
+  { name: "Multimedia", path: "/team24-25/multimedia" },
 ];
 
 const Menu = () => {
