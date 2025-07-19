@@ -23,12 +23,12 @@ const coordinators = [
     name: "Raunak Vernekar",
   },
   {
-    imageSrc: "/images/no_image.webp",
+    imageSrc: "/images/Divyaanjali.webp",
     title: "Coordinator",
     name: "Divyaanjali",
   },
   {
-    imageSrc: "/images/no_image.webp",
+    imageSrc: "/images/Srijan Sharma.jpg",
     title: "Coordinator",
     name: "Srijan Sharma",
   },
@@ -123,7 +123,7 @@ const coordinators = [
     name: "Rishitha Rajapu",
   },
   {
-    imageSrc: "/images/Harini.webp",
+    imageSrc: "/images/Yoligi Harini.webp",
     title: "Coordinator",
     name: "Harini Yoligi",
   },
@@ -163,12 +163,7 @@ const coordinators = [
     name: "Satyanarayana",
   },
   {
-    imageSrc: "/images/no_image.webp",
-    title: "Coordinator",
-    name: "Darshan",
-  },
-  {
-    imageSrc: "/images/no_image.webp",
+    imageSrc: "/images/pranathi.webp",
     title: "Coordinator",
     name: "Pranathi",
   },
@@ -207,6 +202,11 @@ const coordinators = [
     title: "Coordinator",
     name: "Shan Meshram",
   },
+  {
+    imageSrc: "/images/Saipoorna.webp",
+    title: "Coordinator",
+    name: "Saipoorna",
+  },
 ];
 
 const TeamPage = () => {
@@ -238,27 +238,10 @@ const TeamPage = () => {
 
       <Overall />
 
-      <Teambutton text="Design" backgroundColor="bg-[#0c223f]" />
-      <div className="flex flex-col mt-4 items-center">
-        <Head
-          imageSrc="/images/Ashwath.webp"
-          title="Design Head"
-          name="Ashwath"
-          bgColor="bg-[#1D4F7C]"
-        />
-        <div className="w-full px-4 mt-10">
-          <div className="flex flex-wrap justify-center gap-x-10 gap-y-10">
-            {coordinators.slice(0, 5).map((coordinator, i) => (
-              <Coordinator key={i} {...coordinator} />
-            ))}
-          </div>
-        </div>
-      </div>
-
       <Teambutton text="Speaker Curator" backgroundColor="bg-[#0c223f]" />
       <div className="flex flex-col mt-4 items-center">
         <Head
-          imageSrc="/images/Kaivalya Mase.webp"
+          imageSrc="/images/Kaivalya.webp"
           title="Content and Speaker Curator Head"
           name="Kaivalya Mase"
           bgColor="bg-[#1D4F7C]"
@@ -272,11 +255,28 @@ const TeamPage = () => {
         </div>
       </div>
 
+      <Teambutton text="Collabration and PR" backgroundColor="bg-[#0c223f]" />
+      <div className="flex flex-col mt-4 items-center">
+        <Head
+          imageSrc="/images/Aashi Ranjan.jpg"
+          title="Collabration and PR Head"
+          name="Aashi Ranjan"
+          bgColor="bg-[#1D4F7C]"
+        />
+        <div className="w-full px-4 mt-10">
+          <div className="flex flex-wrap justify-center gap-x-10 gap-y-10">
+            {coordinators.slice(32, 40).map((coordinator, i) => (
+              <Coordinator key={i} {...coordinator} />
+            ))}
+          </div>
+        </div>
+      </div>
+
       <Teambutton text="Logistics & Hospi" backgroundColor="bg-[#0c223f]" />
       <div className="flex flex-col mt-4 items-center">
         <div className="space-y-12">
           <Head
-            imageSrc="/images/Kodadala Jagadeesh.webp"
+            imageSrc="/images/Jagadeesh.webp"
             title="Logistics and Hospitality Head"
             name="Kodadala Jagadeesh"
             bgColor="bg-[#1D4F7C]"
@@ -291,6 +291,23 @@ const TeamPage = () => {
         <div className="w-full px-4 mt-10">
           <div className="flex flex-wrap justify-center gap-x-10 gap-y-10">
             {coordinators.slice(13, 22).map((coordinator, i) => (
+              <Coordinator key={i} {...coordinator} />
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <Teambutton text="Design" backgroundColor="bg-[#0c223f]" />
+      <div className="flex flex-col mt-4 items-center">
+        <Head
+          imageSrc="/images/Ashwath.webp"
+          title="Design Head"
+          name="Ashwath"
+          bgColor="bg-[#1D4F7C]"
+        />
+        <div className="w-full px-4 mt-10">
+          <div className="flex flex-wrap justify-center gap-x-10 gap-y-10">
+            {coordinators.slice(0, 5).map((coordinator, i) => (
               <Coordinator key={i} {...coordinator} />
             ))}
           </div>
@@ -324,24 +341,7 @@ const TeamPage = () => {
         />
         <div className="w-full px-4 mt-10">
           <div className="flex flex-wrap justify-center gap-x-10 gap-y-10">
-            {coordinators.slice(27, 33).map((coordinator, i) => (
-              <Coordinator key={i} {...coordinator} />
-            ))}
-          </div>
-        </div>
-      </div>
-
-      <Teambutton text="Collabration and PR" backgroundColor="bg-[#0c223f]" />
-      <div className="flex flex-col mt-4 items-center">
-        <Head
-          imageSrc="/images/Aashi Ranjan.jpg"
-          title="Collabration and PR Head"
-          name="Aashi Ranjan"
-          bgColor="bg-[#1D4F7C]"
-        />
-        <div className="w-full px-4 mt-10">
-          <div className="flex flex-wrap justify-center gap-x-10 gap-y-10">
-            {coordinators.slice(33, 40).map((coordinator, i) => (
+            {coordinators.slice(27, 32).map((coordinator, i) => (
               <Coordinator key={i} {...coordinator} />
             ))}
           </div>

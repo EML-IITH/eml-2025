@@ -25,12 +25,12 @@ const coordinators = [
     name: "Raunak Vernekar",
   },
   {
-    imageSrc: "/images/no_image.webp",
+    imageSrc: "/images/Divyaanjali.webp",
     title: "Coordinator",
     name: "Divyaanjali",
   },
   {
-    imageSrc: "/images/no_image.webp",
+    imageSrc: "/images/Srijan Sharma.jpg",
     title: "Coordinator",
     name: "Srijan Sharma",
   },

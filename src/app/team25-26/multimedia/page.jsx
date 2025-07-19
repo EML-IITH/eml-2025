@@ -29,8 +29,8 @@ const coordinators = [
     name: "Satyanarayana",
     title: "Coordinator",
   },
-  { imageSrc: "/images/no_image.webp", name: "Darshan", title: "Coordinator" },
-  { imageSrc: "/images/no_image.webp", name: "Pranathi", title: "Coordinator" },
+  // { imageSrc: "/images/no_image.webp", name: "Darshan", title: "Coordinator" },
+  { imageSrc: "/images/pranathi.webp", name: "Pranathi", title: "Coordinator" },
 ];
 
 export default function Multimedia() {
