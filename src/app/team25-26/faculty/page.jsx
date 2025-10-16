@@ -45,14 +45,14 @@ export default function Faculty() {
                   bgColor="bg-[#B0C4DE]"
                   textColor="text-[#1E456E]"
                 />
-                {/* <Head
+                 <Head
                   imageSrc="/images/Faculty_R Prasanth Kumar.webp"
                   title="Dean Students"
                   name="Prof. Prasanth Kumar R"
                   rollNo="Professor"
                   bgColor="bg-[#B0C4DE]"
                   textColor="text-[#1E456E]"
-                /> */}
+                /> 
               </div>
             </div>
           </div>
