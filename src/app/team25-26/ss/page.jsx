@@ -208,14 +208,7 @@ const TeamPage = () => {
       <Teambutton text="Team 2025-2026" backgroundColor="bg-[#0c223f]" />
       {/* <Teambutton text="Faculties" backgroundColor="bg-[#0c223f]" /> */}
       <div className="sm:w-1/4 md:w-2/3 flex flex-col justify-center items-center mb-5 mt-3 gap-10">
-        <Head
-                  imageSrc="/images/Faculty_Jyothi_Vedurada.webp"
-                  title="FIC Student Activities"
-                  name="Prof. Jyothi Vedurada"
-                  rollNo="Assistant Professor"
-                  bgColor="bg-[#B0C4DE]"
-                  textColor="text-[#1E456E]"
-                />
+        
         <Head
           imageSrc="/images/Faculty_R Prasanth Kumar.webp"
           title="Dean Students"
@@ -224,6 +217,14 @@ const TeamPage = () => {
           bgColor="bg-[#B0C4DE]"
           textColor="text-[#1E456E]"
         />
+        <Head
+                  imageSrc="/images/Faculty_Jyothi_Vedurada.webp"
+                  title="FIC Student Activities"
+                  name="Prof. Jyothi Vedurada"
+                  rollNo="Assistant Professor"
+                  bgColor="bg-[#B0C4DE]"
+                  textColor="text-[#1E456E]"
+                />
       </div>
 
       <Teambutton text="Team Lead" backgroundColor="bg-[#0c223f]" />
