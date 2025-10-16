@@ -33,7 +33,7 @@ const SpeakersSection = () => {
      id: 5,
       image: "/images/home/recent-talks/img5.jpg",
       title: "Acharya Prashant",
-      description: "Retd. General Officer, Indian Army"
+      description: "Indian spiritual leader, philosopher, author and poet"
      },
   ];
 
