@@ -37,14 +37,7 @@ export default function Faculty() {
                 <Menu />
               </div>
               <div className="md:w-2/3 flex justify-center items-start mt-[70px] md:mt-[200px] md:ml-[-50px] gap-4">
-                <Head
-                  imageSrc="/images/Faculty_Jyothi_Vedurada.webp"
-                  title="FIC Student Activities"
-                  name="Prof. Jyothi Vedurada"
-                  rollNo="Assistant Professor"
-                  bgColor="bg-[#B0C4DE]"
-                  textColor="text-[#1E456E]"
-                />
+                
                  <Head
                   imageSrc="/images/Faculty_R Prasanth Kumar.webp"
                   title="Dean Students"
@@ -53,6 +46,14 @@ export default function Faculty() {
                   bgColor="bg-[#B0C4DE]"
                   textColor="text-[#1E456E]"
                 /> 
+                <Head
+                  imageSrc="/images/Faculty_Jyothi_Vedurada.webp"
+                  title="FIC Student Activities"
+                  name="Prof. Jyothi Vedurada"
+                  rollNo="Assistant Professor"
+                  bgColor="bg-[#B0C4DE]"
+                  textColor="text-[#1E456E]"
+                />
               </div>
             </div>
           </div>
