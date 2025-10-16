@@ -216,6 +216,14 @@ const TeamPage = () => {
                   bgColor="bg-[#B0C4DE]"
                   textColor="text-[#1E456E]"
                 />
+        <Head
+          imageSrc="/images/Faculty_R Prasanth Kumar.webp"
+          title="Dean Students"
+          name="Prof. Prasanth Kumar R"
+          rollNo="Professor"
+          bgColor="bg-[#B0C4DE]"
+          textColor="text-[#1E456E]"
+        />
       </div>
 
       <Teambutton text="Team Lead" backgroundColor="bg-[#0c223f]" />
