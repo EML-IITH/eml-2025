@@ -14,6 +14,8 @@ const images = [
   "/images/home/carousel/img9.jpg",
   "/images/home/carousel/img10.jpg",
   "/images/home/carousel/img11.jpg",
+  "/images/home/carousel/img12.jpg",
+  "/images/home/carousel/img13.jpg",
 
 ];
 
