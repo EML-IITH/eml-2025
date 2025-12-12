@@ -1,15 +1,20 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* ---- Imports must come FIRST ---- */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Playfair+Display:ital@0;1&display=swap');
 @import "keen-slider/keen-slider.min.css";
 
+/* ---- Tailwind layers ---- */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---- Root variables ---- */
 :root {
   --background: #ffffff;
   --foreground: #171717;
   --text-primary: #1D4F7C;
 }
 
+/* ---- Dark mode ---- */
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
