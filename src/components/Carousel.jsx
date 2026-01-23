@@ -16,7 +16,7 @@ const images = [
   "/images/home/carousel/img11.jpg",
   "/images/home/carousel/img12.jpg",
   "/images/home/carousel/img13.jpg",
-
+ 
 ];
 
 const AUTOPLAY_INTERVAL = 3000;

@@ -1,6 +1,13 @@
-[ 
-  {
+[ {
     "id": 1,
+    "name": "Dr Pramod Khargonekar",
+    "title": "Vice Chancellor for Research & Distinguished Professor of Electrical Engineering and Computer Science, UC Irvine",
+    "photo": "../images/speakers/Pramodkhargonekar.webp",
+    "description": "Dr. Pramod P. Khargonekar is the Vice Chancellor for Research and Distinguished Professor of Electrical Engineering and Computer Science at the University of California, Irvine. A leading authority in systems and control theory, his research has had significant impact on robust control, H-infinity methods, digital control, and applications ranging from semiconductor manufacturing to renewable energy integration. He has held senior leadership roles including Dean of the College of Engineering at the University of Florida, Assistant Director for Engineering at the U.S. National Science Foundation, and Deputy Director for Technology at ARPA-E.",
+    "moreDetails": "https://en.wikipedia.org/wiki/Pramod_P._Khargonekar"
+  },
+  {
+    "id": 2,
     "name": "Gururaj Deshpande",
     "title": "Indian American venture capitalist",
     "photo": "../images/speakers/Gururaj.webp",
@@ -10,7 +17,7 @@
 
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Vijayalakshmi Deshamane",
     "title": "Renowned Indian Oncologist, Breast Cancer Specialist, and Women’s Health Advocate",
     "photo": "../images/speakers/Vijayalakshmi.webp",
@@ -20,7 +27,7 @@
 
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Acharya prashant",
     "title": "Indian spiritual leader, philosopher, author and poet",
     "photo": "../images/speakers/AcharyaPrashant.webp",
@@ -29,7 +36,7 @@
 
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Achyut Ramchandra Palav",
     "title": "Indian Calligrapher and Educator",
     "photo": "../images/speakers/AchyutRamchandraPalav.jpg",
@@ -38,7 +45,7 @@
 
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Dr. H. C. Verma",
     "title": "Indian Physicist, Author, and Professor Emeritus at IIT Kanpur",
     "photo": "../images/speakers/HCVerma.png",
@@ -46,7 +53,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/H._C._Verma"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Dr. Kiran Seth",
     "title": "Founder, SPICMACAY",
     "photo": "../images/speakers/KiranSeth.png",
@@ -54,7 +61,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Kiran_Seth"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Prof. E. V. Swaminathan",
     "title": "Mental Health Advocate",
     "photo": "../images/speakers/EVSwaminathan.png",
@@ -62,7 +69,7 @@
     "moreDetails": "https://sttp.spit.ac.in/files/2020/10/Swami-2020-New.pdf"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Lft. Gen. Kanwal Jeet Singh Dhillon",
     "title": "Retd. General Officer, Indian Army",
     "photo": "../images/speakers/Dhillon.png",
@@ -70,7 +77,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Kanwal_Jeet_Singh_Dhillon"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "E. Damodar",
     "title": "Retd. Inspector General of Police",
     "photo": "../images/speakers/EDamodar.png",
@@ -78,7 +85,7 @@
     "moreDetails": "https://www.linkedin.com/in/e-damodar-ips-4aa35731?originalSubdomain=in"
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Shivanand Kanavi",
     "title": "Former VP,TCS",
     "photo": "../images/speakers/ShivanandKanavi.png",
@@ -86,7 +93,7 @@
     "moreDetails": "https://www.linkedin.com/in/shivanand-kanavi-33036127?originalSubdomain=in"
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "Chennupati Jagdish",
     "title": "President, Australian Academy of Science",
     "photo": "../images/speakers/CJagdish.png",
@@ -94,7 +101,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Chennupati_Jagadish"
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Ajai Chowdhry",
     "title": "Co-founder of HCL & Padma Bhushan Awardee",
     "photo": "../images/speakers/AjaiChowdhry.jpg",
@@ -102,7 +109,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Ajai_Chowdhry"
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "Byrana Nagappa Suresh",
     "title": "ISRO Scientist, Padma Shri & Padma Bhushan Awardee",
     "photo": "../images/speakers/BNSuresh.jpg",
@@ -110,7 +117,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/B._N._Suresh"
   },
   {
-    "id": 14,
+    "id": 15,
     "name": "Dr. Richard Stallman",
     "title": "Founder, Free Software",
     "photo": "../images/speakers/RichardStallman.jpg",
@@ -118,7 +125,7 @@
     "moreDetails": "http://en.wikipedia.org/wiki/Richard_Stallman"
   },
   {
-    "id": 15,
+    "id": 16,
     "name": "Dr. Viswanathan Mohan",
     "title": "Indian Diabetologist & Padma Shri Awardee",
     "photo": "../images/speakers/ViswanathanMohan.jpg",
@@ -126,7 +133,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/V._Mohan"
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Dr. Pulickel Ajayan",
     "title": "Professor in Engineering at Rice University, Houston",
     "photo": "../images/speakers/PulickelAjayan.jpg",
@@ -134,7 +141,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Pulickel_Ajayan"
   },
   {
-    "id": 17,
+    "id": 18,
     "name": "Dr. Undurti Narasimha Das",
     "title": "CEO, UND Life Science",
     "photo": "../images/speakers/UndurtiDas.jpg",
@@ -142,7 +149,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Undurti_Narasimha_Das"
   },
   {
-    "id": 18,
+    "id": 19,
     "name": "Dr. Rohini Godbole",
     "title": "Phycist at CERN & Padma Shri Awardee",
     "photo": "../images/speakers/RohiniGodbole.jpeg",
@@ -150,7 +157,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Rohini_Godbole"
   },
   {
-    "id": 19,
+    "id": 20,
     "name": "Padmanabhan Balaram",
     "title": "Former Director, IISC Bangalore ",
     "photo": "../images/speakers/PadmanabhanBalaram.jpg",
@@ -158,7 +165,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Padmanabhan_Balaram"
   },
   {
-    "id": 20,
+    "id": 21,
     "name": "Dr. Y. S. Rajan",
     "title": "Scientist & Honorary Distinguished Professor at ISRO",
     "photo": "../images/speakers/YSRajan.jpg",
@@ -166,7 +173,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Y._S._Rajan"
   },
   {
-    "id": 21,
+    "id": 22,
     "name": "Lft. Gen. Dr. Madhuri Kanitkar",
     "title": "Retd. Lieutenant General",
     "photo": "../images/speakers/MadhuriKanitkar.jpg",
@@ -174,7 +181,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Madhuri_Kanitkar"
   },
   {
-    "id": 22,
+    "id": 23,
     "name": "Dr. Gagandeep Kang",
     "title": "Godmother of Indian Vaccine",
     "photo": "../images/speakers/GagandeepKang.jpg",
@@ -182,7 +189,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Gagandeep_Kang"
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "Neelakantha Bhanu Prakash",
     "title": "World's Fastest Human Calculator",
     "photo": "../images/speakers/NBhanuPrakash.jpg",
@@ -190,7 +197,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Neelakantha_Bhanu_Prakash"
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "Dr.Tejaswini Manogna",
     "title": "Miss India Earth (2019)",
     "photo": "../images/speakers/TejaswiniManogna.jpg",
@@ -198,7 +205,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Tejaswini_Manogna"
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "Pullela Gopichand",
     "title": "Chief National Coach, Indian Badminton Team",
     "photo": "../images/speakers/PullelaGopichand.jpg",
@@ -206,7 +213,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Pullela_Gopichand"
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "S. P. Balasubrahmanyam",
     "title": "Distinguished Singer, Actor, Music Director & Film Producer",
     "photo": "../images/speakers/SPBalasubrahmanyam.jpg",
@@ -214,7 +221,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/S._P._Balasubrahmanyam"
   },
   {
-    "id": 27,
+    "id": 28,
     "name": "Michael Kasprowicz",
     "title": "Australian Test Cricketer",
     "photo": "../images/speakers/MichaelKasprowicz.jpg",
@@ -222,7 +229,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Michael_Kasprowicz"
   },
   {
-    "id": 28,
+    "id": 29,
     "name": "DR. BV Pattabhiram",
     "title": "Renowned Clinical Psychologist",
     "photo": "../images/speakers/BVPattabhiram.jpg",
@@ -230,7 +237,7 @@
     "moreDetails": "http://www.pattabhiram.com/about-us.html"
   },
   {
-    "id": 29,
+    "id": 30,
     "name": "K.K.Senthil Kumar",
     "title": "Cinematographer",
     "photo": "../images/speakers/SenthilKumar.jpg",
@@ -238,7 +245,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/K._K._Senthil_Kumar"
   },
   {
-    "id": 30,
+    "id": 31,
     "name": "R.K. Paliwal",
     "title": "Hindi Playwright and Author",
     "photo": "../images/speakers/Paliwal.jpg",
@@ -246,7 +253,7 @@
     "moreDetails": "https://www.facebook.com/rkpaliwalgandhian/"
   },
   {
-    "id": 31,
+    "id": 32,
     "name": "Dr. Y. V. Reddy",
     "title": "Economist and Retd. IAS Officer",
     "photo": "../images/speakers/YVReddy.jpg",
@@ -254,7 +261,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Y._V._Reddy"
   },
   {
-    "id": 32,
+    "id": 33,
     "name": "Amala Akkineni",
     "title": "Actress and Activist",
     "photo": "../images/speakers/AmalaAkkineni.jpg",
@@ -262,7 +269,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Amala_Akkineni"
   },
   {
-    "id": 33,
+    "id": 34,
     "name": "Ananda Shankar Jayant",
     "title": "Classical Dancer, Choreographer, and Bureaucrat",
     "photo": "../images/speakers/AnandaShankarJayant.jpg",
@@ -270,7 +277,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Ananda_Shankar_Jayant"
   },
   {
-    "id": 34,
+    "id": 35,
     "name": "Ira Trivedi",
     "title": "Author, Columnist, and Yoga Teacher",
     "photo": "../images/speakers/IraTrivedi.jpg",
@@ -278,7 +285,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Ira_Trivedi"
   },
   {
-    "id": 35,
+    "id": 36,
     "name": "G Chandana Deepti",
     "title": "IPS officer, Superintendent of Police",
     "photo": "../images/speakers/ChandanaDeepti.jpg",
@@ -287,3 +294,4 @@
   }
   
 ]
+
