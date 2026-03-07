@@ -1,6 +1,6 @@
 [ {
     "id": 1,
-    "name": "Dr Pramod Khargonekar",
+    "name": "Dr. Pramod Khargonekar",
     "title": "Vice Chancellor for Research & Distinguished Professor of Electrical Engineering and Computer Science, UC Irvine",
     "photo": "../images/speakers/Pramodkhargonekar.webp",
     "description": "Dr. Pramod P. Khargonekar is the Vice Chancellor for Research and Distinguished Professor of Electrical Engineering and Computer Science at the University of California, Irvine. A leading authority in systems and control theory, his research has had significant impact on robust control, H-infinity methods, digital control, and applications ranging from semiconductor manufacturing to renewable energy integration. He has held senior leadership roles including Dean of the College of Engineering at the University of Florida, Assistant Director for Engineering at the U.S. National Science Foundation, and Deputy Director for Technology at ARPA-E.",
@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "name": "Gururaj Deshpande",
+    "name": "Dr. Gururaj Deshpande",
     "title": "Indian American venture capitalist",
     "photo": "../images/speakers/Gururaj.webp",
     "description": "Gururaj Deshpande is an Indian American venture capitalist and entrepreneur, who is best known for co-founding the Chelmsford, MA-based internet equipment manufacturer Sycamore Networks, the Deshpande Center for Technological Innovation at MIT and the Deshpande Foundation.Presently,[when?] Deshpande is the Chairman of A123Systems, Sycamore Networks, Tejas Networks, HiveFire, Sandstone Capital, Sparta Group, and sits on the Board of Airvana.Deshpande is a life member of the MIT Corporation, the Board of Trustees of MIT, and sits on the board of the MIT School of Engineering Dean's Advisory Council (DAC).",
@@ -18,7 +18,7 @@
   },
   {
     "id": 3,
-    "name": "Vijayalakshmi Deshamane",
+    "name": "Dr. Vijayalakshmi Deshamane",
     "title": "Renowned Indian Oncologist, Breast Cancer Specialist, and Women’s Health Advocate",
     "photo": "../images/speakers/Vijayalakshmi.webp",
     "description": "Dr. Vijayalakshmi Deshmane is a renowned Indian oncologist and breast cancer specialist. She has served as the Head of the Surgical Oncology Department at Kidwai Memorial Institute of Oncology in Bengaluru. Known for her expertise in cancer treatment and compassionate patient care, she has also been involved in cancer awareness, early detection programs, and women’s health advocacy. Dr. Deshmane is respected for her contributions to oncology research and her efforts to make quality cancer care accessible in India.",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "name": "Acharya prashant",
+    "name": "Shri Acharya prashant",
     "title": "Indian spiritual leader, philosopher, author and poet",
     "photo": "../images/speakers/AcharyaPrashant.webp",
     "description": "Prashant Tripathi, known as Acharya Prashant is an Indian spiritual leader, philosopher, author and poet. He conducts live Gita sessions both offline and online, where he teaches seventeen forms of Gita and sixty forms of Upanishads with eastern and western philosophy and religion.He is the founder of a non-profit organization named PrashantAdvait Foundation, and is an Animal Rights Activist",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "name": "Achyut Ramchandra Palav",
+    "name": "Shri Achyut Ramchandra Palav",
     "title": "Indian Calligrapher and Educator",
     "photo": "../images/speakers/AchyutRamchandraPalav.jpg",
     "description": "Achyut Ramchandra Palav, a renowned Mumbai-based calligrapher and educator, is celebrated for his mastery of Indian scripts—especially Devanagari—and his revival of the historic Modi script. A graduate of Sir J.J. Institute of Applied Art and founder of the Achyut Palav School of Calligraphy, he has inspired many through workshops, exhibitions, and public art. Awarded the Padma Shri in 2025, he is dedicated to preserving tradition and showcasing the beauty of letters.",
@@ -86,7 +86,7 @@
   },
   {
     "id": 11,
-    "name": "Shivanand Kanavi",
+    "name": "Shri Shivanand Kanavi",
     "title": "Former VP,TCS",
     "photo": "../images/speakers/ShivanandKanavi.png",
     "description": "Shivanand Kanavi, former VP at TCS and Adjunct Faculty at NIAS, Bengaluru, is a distinguished writer and speaker. With a background in Theoretical Physics from IIT Bombay, he has written extensively on business, science, technology, Indian history, and philosophy. His career includes roles as Business India editor and leadership at TCS and CMC Ltd. Author of Sand to Silicon, he is a sought-after speaker at universities and conferences.",
@@ -94,7 +94,7 @@
   },
   {
     "id": 12,
-    "name": "Chennupati Jagdish",
+    "name": "Prof. Chennupati Jagdish",
     "title": "President, Australian Academy of Science",
     "photo": "../images/speakers/CJagdish.png",
     "description": "Chennupati Jagadish, an Indian-Australian physicist, is President of the Australian Academy of Science and a Distinguished Professor at ANU. He leads the Semiconductor Optoelectronics and Nanotechnology Group, which he founded. Honored as a Companion of the Order of Australia, he also received the UNESCO Medal for nanoscience. The Indian government awarded him the Pravasi Bharatiya Samman, its highest honor for overseas Indians.",
@@ -102,7 +102,7 @@
   },
   {
     "id": 13,
-    "name": "Ajai Chowdhry",
+    "name": "Shri Ajai Chowdhry",
     "title": "Co-founder of HCL & Padma Bhushan Awardee",
     "photo": "../images/speakers/AjaiChowdhry.jpg",
     "description": "Ajai Chowdhry, co-founder of HCL, is the Chairman of the Board of Governors at NIFFT Ranchi and IIIT. He also serves on the advisory board of the India Semiconductor Mission. In 2011, he was honored with the Padma Bhushan for his significant contributions to the Indian IT industry. Recognized among India’s Most Powerful CEOs by The Economic Times in 2009, he continues to play a key role in shaping India's technology landscape.",
@@ -110,7 +110,7 @@
   },
   {
     "id": 14,
-    "name": "Byrana Nagappa Suresh",
+    "name": "Dr. Byrana Nagappa Suresh",
     "title": "ISRO Scientist, Padma Shri & Padma Bhushan Awardee",
     "photo": "../images/speakers/BNSuresh.jpg",
     "description": "Byrana Nagappa Suresh is a renowned Indian aerospace scientist and Chancellor of IIST, Thiruvananthapuram, where he was the founding director. A professor at ISRO HQ, he previously led the Vikram Sarabhai Space Centre, contributing to Indian launch vehicles and the Space Capsule Recovery Experiments. He also served as President of the Indian National Academy of Engineering, playing a key role in R&D management and space technology advancements.",
@@ -158,7 +158,7 @@
   },
   {
     "id": 20,
-    "name": "Padmanabhan Balaram",
+    "name": "Dr. Padmanabhan Balaram",
     "title": "Former Director, IISC Bangalore ",
     "photo": "../images/speakers/PadmanabhanBalaram.jpg",
     "description": "Prof. Padmanabhan Balaram is a distinguished Indian biochemist and former director of IISc Bangalore. Specializing in peptide design, conformation, and biological activity, he has significantly contributed to transmembrane peptide channels and protein structures. A Padma Bhushan (2014) and TWAS Prize (1994) awardee, he has 400+ research papers and was editor of Current Science until 2013, shaping scientific discourse in India.",
@@ -190,7 +190,7 @@
   },
   {
     "id": 24,
-    "name": "Neelakantha Bhanu Prakash",
+    "name": "Shri Neelakantha Bhanu Prakash",
     "title": "World's Fastest Human Calculator",
     "photo": "../images/speakers/NBhanuPrakash.jpg",
     "description": "Neelakantha Bhanu Prakash, known as the \"World's Fastest Human Calculator,\" is a math prodigy and Mental Calculation World Champion. He founded 'Bhanzu' to enhance math education and make learning enjoyable. A TED speaker and Forbes 30 Under 30 listee, he passionately advocates for numeracy skills and aims to elevate India's global standing through mathematical excellence.",
@@ -206,7 +206,7 @@
   },
   {
     "id": 26,
-    "name": "Pullela Gopichand",
+    "name": "Shri Pullela Gopichand",
     "title": "Chief National Coach, Indian Badminton Team",
     "photo": "../images/speakers/PullelaGopichand.jpg",
     "description": "Pullela Gopichand is an Indian former badminton player and the Chief National Coach for the India national badminton team. He runs the Gopichand Badminton Academy. He received the Arjuna Award in 1999, the Khel Ratna Award (highest sporting honor in India) in 2001, the Dronacharya Award in 2009 and the Padma Bhushan in 2014. He is the only Indian coach to win the \"Honorable Mention\" by the International Olympic Committee.",
@@ -214,7 +214,7 @@
   },
   {
     "id": 27,
-    "name": "S. P. Balasubrahmanyam",
+    "name": "Shri S. P. Balasubrahmanyam",
     "title": "Distinguished Singer, Actor, Music Director & Film Producer",
     "photo": "../images/speakers/SPBalasubrahmanyam.jpg",
     "description": "Mr.Sripathi Panditaradhyula Balasubrahmanyam, commonly known as SPB or Balu,was an Indian playback singer, television presenter, actor, music composer, dubbing artist, and film producer. He has won the Guinness World Record for recording the highest number of songs. He is a recipient of civilian awards such as Padmashri (2001) and Padma Bhushan (2011) from the government of India.",
@@ -222,7 +222,7 @@
   },
   {
     "id": 28,
-    "name": "Michael Kasprowicz",
+    "name": "Mr. Michael Kasprowicz",
     "title": "Australian Test Cricketer",
     "photo": "../images/speakers/MichaelKasprowicz.jpg",
     "description": "Michael Scott Kasprowicz is a former Australian international cricketer, who played all formats of the game. He is a right arm fast bowler. He represented Queensland and played in the English county scene at first class level.",
@@ -230,6 +230,22 @@
   },
   {
     "id": 29,
+    "name": "Vice Adm. Pradeep Chauhan ",
+    "title": "Vice Admiral in the Indian Navy",
+    "photo": "../images/speakers/pradeep_chauhan.jpg",
+    "description": "Vice Admiral Pradeep Chauhan (Retd.) is a distinguished officer of the Indian Navy and a noted expert in maritime strategy and security. During his naval career, he held several key operational and strategic leadership positions and contributed significantly to India’s maritime and defense framework.After retiring from active service, he has been actively involved in strategic research and policy discussions related to maritime security and the Indo-Pacific region. He has also served in leadership roles at the National Maritime Foundation, contributing to research and dialogue on naval strategy, maritime governance, and regional security.",
+    "moreDetails": "https://en.wikipedia.org/wiki/Pradeep_Chauhan"
+  },
+  {
+    "id": 30,
+    "name": "Dr. G. V. Ramanjaneyulu",
+    "title": "Executive Director, Centre for Sustainable Agriculture",
+    "photo": "../images/speakers/GV_ramanjaneyulu.jpg",
+    "description": "Dr. G. V. Ramanjaneyulu is an agricultural scientist and policy expert working in the field of sustainable and ecological farming systems. He serves as the Executive Director of the Centre for Sustainable Agriculture, where he leads initiatives aimed at promoting agroecology, climate-resilient agriculture, and farmer-centric development.With decades of experience working closely with farming communities, governments, and civil society organizations, he has played a key role in promoting pesticide-free farming practices and community-managed sustainable agriculture across India. His work focuses on improving farmer livelihoods while encouraging environmentally sustainable agricultural practices.",
+    "moreDetails": "https://csa-india.org/team/ramanjaneyulu-gv/"
+  },
+  {
+    "id": 31,
     "name": "DR. BV Pattabhiram",
     "title": "Renowned Clinical Psychologist",
     "photo": "../images/speakers/BVPattabhiram.jpg",
@@ -237,23 +253,23 @@
     "moreDetails": "http://www.pattabhiram.com/about-us.html"
   },
   {
-    "id": 30,
-    "name": "K.K.Senthil Kumar",
+    "id": 32,
+    "name": "Shri K.K.Senthil Kumar",
     "title": "Cinematographer",
     "photo": "../images/speakers/SenthilKumar.jpg",
     "description": "K. K. Senthil Kumar is an Indian cinematographer who works in Telugu cinema. He is known for his frequent collaborations with S.S. Rajamouli. Senthil Kumar began his career as a cinematographer with the TV sitcom Amrutham and made his film debut with Aithe (2003), earning critical recognition. He is the man behind the lens of many award wining box office hits such as Baahubali films",
     "moreDetails": "https://en.wikipedia.org/wiki/K._K._Senthil_Kumar"
   },
   {
-    "id": 31,
-    "name": "R.K. Paliwal",
+    "id": 33,
+    "name": "Shri R.K. Paliwal",
     "title": "Hindi Playwright and Author",
     "photo": "../images/speakers/Paliwal.jpg",
     "description": "Well-known Hindi playwright and author of who has received many literary awards for his books 'Angrez Kothi', Banspur ki Uttarkatha', and 'Gandhi Jivan our Vichar', a biography of Mahatma Gandhi. Doordarshan has made two telefilms on two of his humorous short stories.",
     "moreDetails": "https://www.facebook.com/rkpaliwalgandhian/"
   },
   {
-    "id": 32,
+    "id": 34,
     "name": "Dr. Y. V. Reddy",
     "title": "Economist and Retd. IAS Officer",
     "photo": "../images/speakers/YVReddy.jpg",
@@ -261,32 +277,32 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Y._V._Reddy"
   },
   {
-    "id": 33,
-    "name": "Amala Akkineni",
+    "id": 35,
+    "name": "Ms. Amala Akkineni",
     "title": "Actress and Activist",
     "photo": "../images/speakers/AmalaAkkineni.jpg",
     "description": "Amala Akkineni (née Mukherjee) is an Indian actress, Bharatanatyam dancer, and activist. She has predominantly worked in Tamil films, in addition to Telugu, Hindi, Malayalam, and Kannada-language films.Amala is the co-founder of Blue Cross of Hyderabad,[5] a non-government organisation (NGO) in Hyderabad, India, which works towards the welfare of animals and preservation of animal rights in India.",
     "moreDetails": "https://en.wikipedia.org/wiki/Amala_Akkineni"
   },
   {
-    "id": 34,
-    "name": "Ananda Shankar Jayant",
+    "id": 36,
+    "name": "Dr. Ananda Shankar Jayant",
     "title": "Classical Dancer, Choreographer, and Bureaucrat",
     "photo": "../images/speakers/AnandaShankarJayant.jpg",
     "description": "Ananda Shankar Jayant is an Indian classical dancer, choreographer, scholar and bureaucrat, known for her proficiency in the classical dance forms of Bharatanatyam and Kuchipudi. She is the first woman officer in the Indian Railway Traffic Service on South Central Railway and her 2009 TED talk is ranked among the top twelve Incredible TED talks on cancer.",
     "moreDetails": "https://en.wikipedia.org/wiki/Ananda_Shankar_Jayant"
   },
   {
-    "id": 35,
-    "name": "Ira Trivedi",
+    "id": 37,
+    "name": "Ms. Ira Trivedi",
     "title": "Author, Columnist, and Yoga Teacher",
     "photo": "../images/speakers/IraTrivedi.jpg",
     "description": "Ira Trivedi is an Indian author, columnist, and yoga teacher. She writes both fiction and nonfiction, often on issues related to women and gender in India. Her works include India in Love: Marriage and Sexuality in the 21st Century, What Would You Do to Save the World?, The Great Indian Love Story, and There's No Love on Wall Street.",
     "moreDetails": "https://en.wikipedia.org/wiki/Ira_Trivedi"
   },
   {
-    "id": 36,
-    "name": "G Chandana Deepti",
+    "id": 38,
+    "name": "Mrs. G Chandana Deepti",
     "title": "IPS officer, Superintendent of Police",
     "photo": "../images/speakers/ChandanaDeepti.jpg",
     "description": "Ms G Chandana Deepti is an alumnus of IIT Delhi with a bachelors degree in Computer Science. She joined IPS through UPSC Civil Services Examination in the year 2012. In an interaction session with students, she shared her experiences as a police officer in various capacities, career transformation from engineering to civil services, day-to-day responsibilities and challenges in the current role.",
