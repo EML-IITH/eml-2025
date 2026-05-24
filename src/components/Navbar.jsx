@@ -26,7 +26,7 @@ const externalLinks = [
   {
     icon: Home,
     text: "Brochure",
-    href: "https://drive.google.com/file/d/1Nplh6DCMvWDwDw1cEkwHpIbn_OI8r95V/view?usp=drive_link",
+    href: "https://drive.google.com/file/d/195vgpIClqnHeb5BA1sxbaj81QpmhqJ6M/view?usp=sharing",
   },
 ];
 
